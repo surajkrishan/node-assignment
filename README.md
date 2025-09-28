@@ -76,10 +76,6 @@ The server will start on the port specified in your `.env` file (default is usua
 
 Swagger UI is available at `/api-docs` for interactive API documentation.
 
-## API Documentation
-
-Swagger UI is available at `/api-docs` for interactive API documentation.
-
 ## Middleware
 
 - `middleware/auth.js` - Handles authentication
