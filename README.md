@@ -72,11 +72,13 @@ npm run dev
 
 The server will start on the port specified in your `.env` file (default is usually 3000).
 
-## API Endpoints
+## API Documentation
 
-- `/auth` - Authentication routes
-- `/groups` - Group management routes
-- `/messages` - Message management routes
+Swagger UI is available at `/api-docs` for interactive API documentation.
+
+## API Documentation
+
+Swagger UI is available at `/api-docs` for interactive API documentation.
 
 ## Middleware
 
